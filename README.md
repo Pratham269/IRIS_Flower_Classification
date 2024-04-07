@@ -8,3 +8,4 @@ Prerequirments -
 2) Numpy
 3) matplotlib
 4) seaborn
+5) sklearn
